@@ -88,5 +88,4 @@ Este repositorio contiene una serie de ejercicios progresivos diseñados para do
 
         Aplicar Buenas Prácticas de programación.
 
-        Prepararse para Entrevistas Técnicas de nivel Junior/Trainee.
 
