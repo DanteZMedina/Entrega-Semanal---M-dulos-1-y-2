@@ -1,150 +1,93 @@
-Claro — aquí tienes un README listo para GitHub para tu repositorio.
-Puedes copiarlo directamente en un archivo llamado README.md en la raíz del proyecto.
+<p align="center">☕ Fundamentos de Java y POO</p>
+<p align="center">Ejercicios Prácticos - Semana 1</p>
 
-Fundamentos de Java y POO — Ejercicios Semana 1
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
+<img src="https://img.shields.io/badge/POO-Programación_Orientada_a_Objetos-blue?style=for-the-badge" alt="POO Badge">
+</p>
+ Sobre el Proyecto
 
-Este repositorio contiene una serie de ejercicios prácticos progresivos en Java enfocados en reforzar fundamentos de programación orientada a objetos (POO), control de flujo, manipulación de Strings y colecciones.
+Este repositorio contiene una serie de ejercicios progresivos diseñados para dominar los pilares de Java. El camino de aprendizaje abarca desde la sintaxis básica hasta conceptos avanzados de arquitectura como polimorfismo e interfaces.
+ Contenido de los Ejercicios
+🔹 Ejercicio 1: Hola Mundo Mejorado
 
-Los ejercicios avanzan desde conceptos básicos del lenguaje hasta herencia, interfaces y polimorfismo.
+    Enfoque: Manejo de variables y salida de datos.
 
-Contenido
-Ejercicio 1 — Hola Mundo Mejorado
+    Conceptos clave: Tipos primitivos, concatenación y uso de String.format().
 
-Temas:
+🔹 Ejercicio 2: Calculadora Básica
 
-Variables y tipos primitivos
+    Enfoque: Flexibilidad en métodos.
 
-Concatenación de Strings
+    Conceptos clave: Sobrecarga de métodos (Overloading), manejo de arreglos y bucles para cálculos masivos.
 
-String.format()
+🔹 Ejercicio 3: Clasificador de Números
 
-Se construye un mensaje de presentación usando dos enfoques diferentes.
+    Enfoque: Lógica de control y estadística básica.
 
-Ejercicio 2 — Calculadora Básica
+    Funcionalidades:
 
-Temas:
+        Clasificación (Positivo/Negativo/Cero).
 
-Sobrecarga de métodos (method overloading)
+        Identificación de Par/Impar.
 
-Arreglos
+        Cálculo de Mayor, Menor y Promedio.
 
-Bucles
+🔹 Ejercicio 4: Manipulador de Strings
 
-Implementación de múltiples versiones del método sumar().
+    Enfoque: Procesamiento de texto eficiente.
 
-Ejercicio 3 — Clasificador de Números
+    Conceptos clave: StringBuilder, algoritmos de inversión de cadenas, detección de palíndromos y conteo de vocales.
 
-Temas:
+🔹 Ejercicio 5: Gestión de Estudiantes
 
-if / else
+    Enfoque: Primeros pasos en diseño de software.
 
-Bucles
+    Conceptos clave: Encapsulamiento (private), uso de ArrayList, Getters/Setters y métodos de lógica de negocio.
 
-Operadores lógicos
+🔹 Ejercicio 6: Herencia de Vehículos
 
-Cálculo de promedio
+    Enfoque: El corazón de la POO.
 
-Clasificación de números en:
+    Arquitectura:
 
-positivos / negativos / ceros
+        Arrancable (Interfaz)
 
-pares / impares
+        Vehiculo (Clase Abstracta)
 
-Además se calcula:
+        Auto, Moto, VehiculoElectrico (Herencia)
 
-mayor
+    Conceptos clave: Polimorfismo, clases abstractas y operador instanceof.
 
-menor
+ Tecnologías Utilizadas
 
-promedio
+    Lenguaje: Java 11+
 
-Ejercicio 4 — Manipulador de Strings
+    IDE Recomendado: Eclipse, IntelliJ IDEA o Spring Tools Suite (STS).
 
-Temas:
+    Herramientas: Java Standard Edition (SE).
 
-StringBuilder
+ Cómo Ejecutar
 
-Manipulación de texto
+    Clona el repositorio:
+    Bash
 
-Palíndromos
+    git clone https://github.com/tu-usuario/nombre-del-repo.git
 
-Bucles
+    Importa el proyecto en tu IDE de preferencia.
 
-Incluye métodos para:
+    Localiza la clase principal de cada ejercicio (ej. HerenciaVehiculos.java).
 
-invertir cadenas
+    Ejecuta como Java Application.
 
-detectar palíndromos
+ Objetivos de Aprendizaje
 
-contar vocales
+    [!IMPORTANT]
+    Este repositorio no es solo código; es una ruta de entrenamiento para:
 
-construir una pirámide de asteriscos
+        Dominar la sintaxis de Java.
 
-Ejercicio 5 — Gestión de Estudiantes
+        Aplicar Buenas Prácticas de programación.
 
-Temas:
+        Prepararse para Entrevistas Técnicas de nivel Junior/Trainee.
 
-Encapsulación (private)
-
-Getters
-
-ArrayList
-
-toString()
-
-Lógica de negocio en objetos
-
-Se modela una clase Estudiante con:
-
-calificaciones
-
-cálculo de promedio
-
-búsqueda del mejor estudiante
-
-Ejercicio 6 — Herencia de Vehículos
-
-Temas:
-
-Interfaces
-
-Clases abstractas
-
-Herencia
-
-Polimorfismo
-
-instanceof
-
-Jerarquía implementada:
-
-Arrancable (interface)
-        ↑
-     Vehiculo (abstract)
-       /      \
-     Auto     Moto
-       ↑
-VehiculoElectrico
-
-Se crea una flota de vehículos y se demuestra el polimorfismo en ejecución.
-
-Cómo ejecutar
-
-Desde tu IDE (Eclipse / Spring Tools):
-
-Ejecutar el método main de cada ejercicio.
-
-Ejemplo:
-
-HerenciaVehiculos.java
-Objetivo del repositorio
-
-Este proyecto forma parte de un proceso de aprendizaje enfocado en:
-
-Fundamentos de Java
-
-Programación orientada a objetos
-
-Preparación para entrevistas técnicas
-
-Buenas prácticas de estructura de código
