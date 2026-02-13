@@ -72,7 +72,7 @@ Este repositorio contiene una serie de ejercicios progresivos diseñados para do
     Clona el repositorio:
     Bash
 
-    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/DanteZMedina/Entrega-Semanal---M-dulos-1-y-2.git)
+    git clone https://github.com/DanteZMedina/Entrega-Semanal---M-dulos-1-y-2.git
 
     Importa el proyecto en tu IDE de preferencia.
 
