@@ -82,7 +82,6 @@ Este repositorio contiene una serie de ejercicios progresivos diseñados para do
 
  Objetivos de Aprendizaje
 
-    [!IMPORTANT]
     Este repositorio no es solo código; es una ruta de entrenamiento para:
 
         Dominar la sintaxis de Java.
